@@ -1,5 +1,3 @@
-# Chatting-Application
-
 # Chat Application with Firebase Authentication
 
 ## Overview
